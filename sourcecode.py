@@ -1,4 +1,5 @@
-a=10
-b=9
-total = a*b
+a=11
+b=7
+c=10
+total = (a+b)*c
 print(total)
